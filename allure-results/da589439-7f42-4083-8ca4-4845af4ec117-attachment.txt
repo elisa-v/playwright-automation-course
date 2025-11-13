@@ -1,0 +1,13 @@
+[
+  'ZARA COAT 3',
+  'ADIDAS ORIGINAL',
+  'IPHONE 13 PRO',
+  'ADIDAS SHIRT',
+  'laptop',
+  'laptop',
+  'car',
+  'Newcar',
+  'testcar'
+]
+ | 68249994fd2af1c99e20b121 | 
+68249994fd2af1c99e20b121

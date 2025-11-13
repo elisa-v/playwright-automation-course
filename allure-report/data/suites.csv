@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","13464","@Web Client App Place Order for ZARA COAT 3","","Wed May 14 15:24:10 CEST 2025","passed","Wed May 14 15:24:23 CEST 2025","","ClientAppPO2.spec.js","",""
+"","10086","@Web Popup validations","","Wed May 14 15:23:45 CEST 2025","passed","Wed May 14 15:23:55 CEST 2025","","MoreValidations.spec.js","",""
+"","13470","@Web Client App Place Order for ADIDAS ORIGINAL","","Wed May 14 15:24:25 CEST 2025","passed","Wed May 14 15:24:39 CEST 2025","","ClientAppPO2.spec.js","",""

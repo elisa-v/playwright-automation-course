@@ -1,0 +1,26 @@
+{
+  "name": "playwright_automation_course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test tests/WebAPIPart1.spec.js --headed",
+    "regression": "npx playwright test",
+    "webTests": "npx playwright test --grep \"@Web\"",
+    "APITests": "npx playwright test --grep \"@API\"",
+    "SafariNewConfig": "npx playwright test tests/ClientAppPO2.spec.js --config playwright.config1.js --project=safari"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.3",
+    "allure-playwright": "^3.2.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^11.3.0",
+    "exceljs": "^4.4.0"
+  }
+}
